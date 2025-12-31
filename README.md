@@ -1,4 +1,5 @@
 # Signalgrid Go Client
+[![Go Reference](https://pkg.go.dev/badge/github.com/signalgridco/signalgrid-go.svg)](https://pkg.go.dev/github.com/signalgridco/signalgrid-go)
 [![Go Version](https://img.shields.io/github/go-mod/go-version/signalgridco/signalgrid-go)](https://github.com/signalgridco/signalgrid-go)
 
 Official Go client for the Signalgrid notification API.
